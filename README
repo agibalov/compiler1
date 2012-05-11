@@ -1,0 +1,3 @@
+A kind of incomplete C-like language compiler.
+Includes a clone of boost spirit.
+Requires boost.
